@@ -1,0 +1,71 @@
+{
+"general": {
+  "token": "TOKEN HERE",
+  "prefix": "PREFIX HERE",
+  "version": "0.02c"
+},
+"roles": {
+  "owner": "",
+  "admin": "",
+  "family": "",
+  "user": "",
+  "member": "",
+  "games": [
+    ""
+  ],
+  "languages": [
+    ""
+  ]
+},
+"channels": {
+  "general": "",
+  "welcome": "",
+  "rules": "",
+  "announce": "",
+  "log": ""
+},
+"directories": {
+  "music": ""
+},
+"pix": {
+  "touchme": [
+    "https://i.imgur.com/EfmScJH.jpg",
+    "https://i.imgur.com/5ErBDtQ.jpg",
+    "https://i.imgur.com/777mXbx.jpg",
+    "https://i.imgur.com/KjeeUVi.jpg",
+    "https://i.imgur.com/kuGWpF0.jpg",
+    "https://i.imgur.com/JUKiesa.jpg",
+    "https://i.imgur.com/Pxh611k.jpg",
+    "https://i.imgur.com/651z0US.jpg",
+    "https://i.imgur.com/YtT4RYO.jpg",
+    "https://i.imgur.com/UtwBhFX.jpg",
+    "https://i.imgur.com/jtgXdpW.jpg",
+    "https://i.imgur.com/vNrir6K.jpg"
+  ]
+},
+"colors": {
+  "join": "#10B624",
+  "leave": "#EB1F14",
+  "announce": "#70149C",
+  "help": "#92DA13",
+  "giveRole": "#FAA02E",
+  "rmRole": "#584F4A"
+},
+"vars": {
+  "nice": [
+    "yes","indeed","absolutely","undouptedly","sure","of course","totally","clearly","axiomatic"
+  ],
+  "games": [
+    "Send nudes","Super drift","Running in the '90s","TELEFONMAST!!!","1001 Memes","Oh shit waddup","Here come dat boi","Sucking the internet","Don't touch me","Darude Sandstorm"
+  ],
+  "avatar": [
+    "You look pretty nasty","You're gorgeous","OMG, you're so cute","Talk to my hand"
+  ],
+  "coin": [
+    "heads","tails"
+  ],
+  "dice": [
+    "1","2","3","4","5","6"
+  ]
+}
+}
